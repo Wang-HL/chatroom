@@ -1,0 +1,19 @@
+{
+  "name": "ws-chatroom",
+  "version": "0.0.1",
+  "description": "Simple websocket chatroom",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HedyHan/ws-chatroom.git"
+  },
+  "author": "Hedy Han",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "ws": "^1.0.1"
+  }
+}
