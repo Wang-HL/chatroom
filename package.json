@@ -7,10 +7,8 @@
     "start": "node server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git@github.com:HedyHan/ws-chatroom.git"
+    "type": "git"
   },
-  "author": "Hedy Han",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4",
